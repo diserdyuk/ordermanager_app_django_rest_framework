@@ -101,3 +101,6 @@ http://127.0.0.1:8000/admin
 9) октрыть в браузере
 
 http://127.0.0.1:8000/api
+
+![alt text](https://i.imgur.com/Lz5Xn8O.png)
+![alt text](https://i.imgur.com/Tc15jjq.png)
