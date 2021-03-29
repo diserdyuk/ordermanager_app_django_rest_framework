@@ -52,39 +52,51 @@
 
 
 1) установить виртуальное окружение
+
 $ virtualenv venv
 
 
 2) запустить venv
+
 $ source venv/bin/activate
 
 
 3) установить библиотеки
+
 requirements.txt
 
 
 4) сделать миграции
+
 $ python manage.py makemigrations
+
 $ python manage.py migrate
 
 
 5) создать суперюзера
+
 $ python manage.py createsuperuser
 
 
 6) запусить локальный сервер
+
 $ python manage.py runserver
 
 
 7) перейти в админку 
+
 http://127.0.0.1:8000/admin
 
 
 8) в админке создать, несколько
+
 продуктов
+
 заказов
+
 кассиров
 
 
 9) октрыть в браузере
+
 http://127.0.0.1:8000/api
